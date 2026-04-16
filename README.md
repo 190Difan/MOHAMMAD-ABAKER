@@ -23,7 +23,12 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Projects
+## Projects & Labs
+
+### SOC Automation Lab
+*   Details on automating SOC tasks, incident response, and case management.
+*   [View Lab Details](https://drive.google.com/file/d/1-vtcUBtWPNUMEFM48IogK3iOV_wLxyH3/view?usp=sharing)
+
 
 ### Network Pentesting Labs
 
