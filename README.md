@@ -1,3 +1,3 @@
-# soc-analysis-lab
+# soc-analysis-Project
 # Hello, I'm Mohammad Abaker
 
