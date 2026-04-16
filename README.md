@@ -1,8 +1,8 @@
 # soc-analysis-lab
-soc-analysis-lab/
-│
-├── README.md
-├── labs/
+soc-analysis-lab"
+
+" README.md"
+" labs"
 │   ├── phishing-analysis/
 │   ├── malware-analysis/
 │   └── log-analysis/
