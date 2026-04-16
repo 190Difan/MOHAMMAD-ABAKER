@@ -39,9 +39,9 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 
 ### Network Security Labs
 
-*   ** DNS Poisoning Attack Analysis**
-    ** A detailed analysis of DNS poisoning techniques and mitigation strategies.
-    *[View Report](https://drive.google.com/file/d/1fOGJ4oN1AysEPMD-euOXtUtpsUEHu4es/view?usp=sharing)
+*   **DNS Poisoning Attack Analysis**
+    *   A detailed analysis of DNS poisoning techniques and mitigation strategies.
+    *   [View Report](https://drive.google.com/file/d/1fOGJ4oN1AysEPMD-euOXtUtpsUEHu4es/view?usp=sharing)
 
 
 <a href="your-google-drive-link" target="_blank" rel="noopener noreferrer">Port Scanning and Brute Force Attacks Lab</a>
