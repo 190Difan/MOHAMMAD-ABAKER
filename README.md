@@ -23,6 +23,22 @@ My journey in computer science has ignited a deep passion for cybersecurity, dri
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## Projects
+
+### Network Pentesting Labs
+
+*   **Port Scanning and Brute Force Attacks**
+    *   Exploration of common network scanning techniques and brute-force attack methods.
+    *   [View Lab Report](https://drive.google.com/file/d/13QelH-kQT-1lwZ3039g1OEeLreLhYqBU/view?usp=sharing)
+ 
+*   ## Projects
+
+### Network Security Labs
+
+*   **DNS Poisoning Attack Analysis**
+    *   A detailed analysis of DNS poisoning techniques and mitigation strategies.
+    *   [View Report](https://drive.google.com/file/d/1fOGJ4oN1AysEPMD-euOXtUtpsUEHu4es/view?usp=sharing)
+
 
 <a href="your-google-drive-link" target="_blank" rel="noopener noreferrer">Port Scanning and Brute Force Attacks Lab</a>
 
